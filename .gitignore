@@ -2,3 +2,8 @@ cia galima surasyti elemtus, kuriuos ignoruos, kada kelsim projekta i git huba. 
 
 *.md
 node_modules
+
+butinos eilutes yra (sventos):
+node_modules
+.vscode
+.DS_Store
