@@ -6,7 +6,7 @@ https://splatt141.github.io/serlokas/
 
 # Design:
 
-(./serlock.png)
+./serlock.png
 
 # Project features/goals
 
