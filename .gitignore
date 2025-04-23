@@ -1,0 +1,4 @@
+cia galima surasyti elemtus, kuriuos ignoruos, kada kelsim projekta i git huba. pvz:
+
+*.md
+node_modules
