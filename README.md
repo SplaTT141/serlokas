@@ -4,10 +4,6 @@
 
 https://splatt141.github.io/serlokas/
 
-# Design:
-
-./serlock.png
-
 # Project features/goals
 
 - Github pages
